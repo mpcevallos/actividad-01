@@ -8,4 +8,9 @@ class ClaseA {
       this.bar = bar;
     }
   }
-  
+
+// Ejercicio 6. 
+
+class claseB {
+    constructor() { }
+  }
