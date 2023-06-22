@@ -1,0 +1,21 @@
+/* Estilos del body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4d4d4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para head */
+  h1 {
+    color: #7d24f9;
+    font-size: 24px;
+  }
+  
+  /* Estilos para un párrafo */
+  p {
+    color: #383838;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
