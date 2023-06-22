@@ -8,4 +8,15 @@ class ClaseA {
       this.bar = bar;
     }
   }
-  
+
+// Ejercicio 6. 
+
+class claseB {
+    constructor() { }
+  }
+
+// Ejercicio 7.
+
+class claseC {
+    constructor() { }
+  }
