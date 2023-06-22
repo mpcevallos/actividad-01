@@ -14,3 +14,9 @@ class ClaseA {
 class claseB {
     constructor() { }
   }
+
+// Ejercicio 7.
+
+class claseC {
+    constructor() { }
+  }
